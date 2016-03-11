@@ -1,5 +1,0 @@
-== BlockRDD
-
-CAUTION: FIXME
-
-Spark Streaming calls `BlockRDD.removeBlocks()` while link:spark-streaming-dstreams.adoc#clearMetadata[clearing metadata].
